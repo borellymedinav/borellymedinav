@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Borelly Medina</h1>
-<h3 align="center">A passionate frontend developer from Peru and cybersecurity engineering student</h3>
+<h3 align="center">A passionate frontend developer from Peru and Cybersecurity Engineering Student</h3>
 
 - 🌱 I’m currently learning **Pentesting**
 
